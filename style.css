@@ -17,10 +17,17 @@ h2 {
 }
 
 h1,
-h2 {
+h2,
+ul{
   color: red;
   text-align: center;
+  font-size: 130%
 
+}
+p1{
+  text-align: center;
+  color: red;
+  
 }
 
 a {
